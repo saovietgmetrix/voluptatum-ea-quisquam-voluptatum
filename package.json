@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@saovietgmetrix/voluptatum-ea-quisquam-voluptatum",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,41 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/saovietgmetrix/voluptatum-ea-quisquam-voluptatum.git"
   },
   "dependencies": {
+    "@saovietcompany/a-quod-pariatur-tempore": "^1.0.0",
+    "@saovietcompany/fugiat-magnam-sunt-labore": "^1.0.0",
+    "@saovietcompany/provident-corrupti-laborum-voluptatibus": "^1.0.0",
+    "@saovietcompany/quos-sequi-tempora-repellendus": "^1.0.0",
+    "@saovietcompany/rem-expedita-adipisci-maxime": "^1.0.0",
+    "@saovietgmetrix/accusantium-dolorum-dolore-nesciunt": "^1.0.0",
+    "@saovietgmetrix/animi-perspiciatis-fuga-qui": "^1.0.0",
+    "@saovietgmetrix/beatae-temporibus-molestias-odit": "^1.0.0",
+    "@saovietgmetrix/dicta-asperiores-corrupti-ipsam": "^1.0.0",
+    "@saovietgmetrix/dicta-eveniet-reiciendis-quidem": "^1.0.0",
+    "@saovietgmetrix/dolorem-animi-doloremque-delectus": "^1.0.0",
+    "@saovietgmetrix/dolores-voluptates-adipisci-suscipit": "^1.0.0",
+    "@saovietgmetrix/eaque-iure-architecto-commodi": "^1.0.0",
+    "@saovietgmetrix/exercitationem-adipisci-fugiat-possimus": "^1.0.0",
+    "@saovietgmetrix/hic-reprehenderit-voluptate-impedit": "^1.0.0",
+    "@saovietgmetrix/magni-laborum-nihil-iste": "^1.0.0",
+    "@saovietgmetrix/saepe-est-nostrum-quasi": "^1.0.0",
+    "@saovietgmetrix/ullam-saepe-commodi-quasi": "^1.0.0",
+    "@saovietgmetrix/velit-beatae-labore-cupiditate": "^1.0.0",
+    "@saovietgmetrix/velit-quisquam-quidem-dicta": "^1.0.0",
+    "@saovietgmetrix/voluptatem-sed-quam-consequuntur": "^1.0.0",
+    "@saovietgmetrix/voluptatibus-soluta-mollitia-culpa": "^1.0.0",
+    "@saovietgmetrix/voluptatum-laboriosam-similique-laborum": "^1.0.0",
+    "@saovietproject/aliquid-quis-animi-recusandae": "^1.0.0",
+    "@saovietproject/atque-libero-voluptates-iusto": "^1.0.0",
+    "@saovietproject/debitis-corporis-facilis-ex": "^1.0.0",
+    "@saovietproject/est-laboriosam-culpa-iusto": "^1.0.0",
+    "@saovietproject/exercitationem-voluptatem-quis-tempore": "^1.0.0",
+    "@saovietproject/itaque-accusantium-voluptatem-cupiditate": "^1.0.0",
+    "@saovietproject/laborum-ratione-doloribus-ullam": "^1.0.0",
+    "@saovietproject/quisquam-repellendus-numquam-voluptatum": "^1.0.0",
+    "@saovietproject/repudiandae-repudiandae-odit-rerum": "^1.0.0",
+    "@saovietproject/voluptatibus-quod-dolores-voluptatem": "^1.0.0"
   }
 }
